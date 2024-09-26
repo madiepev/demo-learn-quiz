@@ -38,4 +38,4 @@ lab:
 
 Curious to learn more, but no idea where to start?
 
-<button class="button" onclick="window.location.href='01-data/01';">Take the quiz!</button>
+<button class="button" onclick="window.location.href='questions/01';">Take the quiz!</button>
